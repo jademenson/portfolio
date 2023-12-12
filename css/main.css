@@ -259,3 +259,16 @@ a {
     text-align: center;
     font-size: 24px;
 }
+
+.contact-me {
+    max-width: 550px;
+    margin: 20px auto auto auto;
+    border-radius: 5px;
+    padding: 20px;
+}
+
+.contact-me label {
+    font-size: 24px;
+}
+
+
