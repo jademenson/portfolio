@@ -192,3 +192,24 @@ a {
     padding: 5px;
 }
 
+.info ul li a {
+    font-size: 22px;
+}
+
+.collaborate {
+    font-size: 30px;
+}
+
+.aboutme2 h3 {
+    padding: 0 150px 0 0;
+}
+
+.aboutbox {
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 50px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
