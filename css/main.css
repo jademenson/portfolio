@@ -132,3 +132,63 @@ a {
     margin-top: 20px;
     margin-bottom: 90px;
 }
+
+.main-bottom {
+    display: flex;
+    flex-direction: column;
+}
+
+.btn {
+    background-image: linear-gradient(to bottom right, black, #916a0f);
+    border: none;
+    font-family: 'Lato' , sans-serif;
+    font-size: 14px;
+    text-transform: uppercase;
+    font-weight: bolder;
+    padding: 18px 26px;
+    min-width: 200px;
+    margin: 10px;
+    cursor: pointer;
+    position: relative;
+    border-radius: 15px;
+    color: white;
+}
+
+.heading {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    margin-top: 70px;
+    margin-left: 50px;
+    color: white;
+    font-weight: 800;
+    font-size: 24px;
+}
+
+.sub {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    margin-top: 20px;
+    margin-left: 50px;
+    color: white;
+    font-weight: 800;
+    font-size: 24px;
+}
+
+.info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px auto auto 20px;
+    padding: 20px;
+    color: #FFFFFF;
+    font-size: 18px;
+    font-weight: lighter;
+}
+
+.info ul li, .info ul li a{
+    list-style-type: disc;
+    padding: 5px;
+}
+
